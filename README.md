@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm James Garcia</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">Software Engineer/Quantum Computing</h3>
 
-- 🔭 I’m currently working on a **Mobile app**
+- 🔭 I’m currently working on a **Quantum Computing Masters**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Pennylane**
 
 - 📫 How to reach me **james111garcia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/james111garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james111garcia" height="30" width="40" /></a>
-<a href="https://instagram.com/jamesgarcia374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamesgarcia374" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
